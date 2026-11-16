@@ -2,6 +2,8 @@
 
 Site institucional responsivo desenvolvido com React, Vite e Material UI.
 
+> **Aviso:** Os dados e as informações apresentados neste projeto são fictícios e foram incluídos apenas para fins de aprendizado.
+
 ## Requisitos
 
 - Node.js 20 ou superior
